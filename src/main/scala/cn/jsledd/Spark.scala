@@ -64,5 +64,6 @@ object Spark {
   def main(args: Array[String]): Unit = {
     val format1 = rowFormat[Bar]
     format1.schema.printTreeString()
+    sdsd
   }
 }
