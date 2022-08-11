@@ -8,7 +8,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <hadoop.common.version>3.0.0-cdh6.1.1</hadoop.common.version>
+        <hadoop.common.version>3.2.4</hadoop.common.version>
         <spark.common.version>2.4.0-cdh6.1.1</spark.common.version>
         <hbase.version>	2.1.0-cdh6.1.1</hbase.version>
         <cxf.version>3.1.2</cxf.version>
